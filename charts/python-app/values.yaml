@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: kobib/python-app
   pullPolicy: IfNotPresent
-  tag: "332fa7"
+  tag: "3f0a5d"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
