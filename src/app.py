@@ -11,7 +11,7 @@ def info():
         "time": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "hostname":  socket.gethostname(),
         "message": "cicd",
-        "deploed_on": "k8s"
+        "deployed_on": "k8s"
     })
 
 @app.route('/api/v1/health')
