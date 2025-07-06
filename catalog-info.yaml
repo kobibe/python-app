@@ -5,6 +5,7 @@ metadata:
   description: Pyhon app of backstage course
   annotations:
     github.com/project-slug: kobibe/python-app
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: development
