@@ -1,6 +1,6 @@
 # Documents for pyhon-app
 
-this application use two endpoints:
+This application uses two endpoints:
 - /api/v1/info
 - /api/v1/health
 
